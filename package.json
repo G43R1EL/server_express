@@ -1,0 +1,30 @@
+{
+  "name": "server_express",
+  "version": "1.0.0",
+  "description": "Servidor NodeJs Express - Coderhouse (Backend)",
+  "main": "server_express.js",
+  "scripts": {
+    "test": "nodemon server_express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G43R1EL/server_express.git"
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "node",
+    "coderhouse",
+    "javascript"
+  ],
+  "author": "Nelson Gabriel Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G43R1EL/server_express/issues"
+  },
+  "homepage": "https://github.com/G43R1EL/server_express#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}

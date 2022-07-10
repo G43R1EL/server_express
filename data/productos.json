@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Lápiz negro Staedtler",
+        "price": 184.5,
+        "thumbnail": "assets/placeholder.svg",
+        "id": 1
+    },
+    {
+        "title": "Escuadra Pizzini",
+        "price": 469.99,
+        "thumbnail": "assets/placeholder.svg",
+        "id": 2
+    },
+    {
+        "title": "Transportador Pizzini",
+        "price": 349.45,
+        "thumbnail": "assets/placeholder.svg",
+        "id": 3
+    }
+
+]
