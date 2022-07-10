@@ -4,6 +4,7 @@
   "description": "Servidor NodeJs Express - Coderhouse (Backend)",
   "main": "server_express.js",
   "scripts": {
+    "start": "node server_express.js",
     "test": "nodemon server_express.js"
   },
   "repository": {
